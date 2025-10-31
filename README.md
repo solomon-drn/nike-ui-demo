@@ -1,4 +1,4 @@
-# 🏃‍♂️ Nike UI Demo
+#  Nike UI Demo
 
 A **Nike-inspired web demo** built with **Tailwind CSS** and **Vite**.  
 This project was created purely for **learning and practice** — exploring modern UI design, responsive layouts, and brand-inspired styling with Tailwind CSS.
@@ -12,6 +12,5 @@ This project was created purely for **learning and practice** — exploring mode
 - 🎨 **Nike-themed UI** with sleek product highlights  
 - 🧩 **Reusable components** (hero section, product cards, navigation, etc.)  
 - 🌀 Smooth **hover effects** and **transitions**
-
-# 🏃‍♂️ Nike UI Demo  
+ 
 🔗 **Live Demo:** https://nike-ui-demo.vercel.app/
